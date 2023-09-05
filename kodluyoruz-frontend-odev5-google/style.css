@@ -1,0 +1,32 @@
+.gorselgoogle{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1465px;
+
+}
+.search{
+    align-items: center;
+    text-align: center;
+    background-color: lightgray;
+    margin-left: 35px;
+    margin-right: 35px;
+    width: 1465px;
+
+}
+.contents{
+    align-items: center;
+    float:left;
+    justify-content: space-between;
+    margin-left: 35px;
+    margin-right: 35px;
+    width: 1465px;
+}
+.link{
+    text-align: center;
+    float:left;
+    width: 475px;
+    margin-right: 10px;
+    background-color: aquamarine;
+}
